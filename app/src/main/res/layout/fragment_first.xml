@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="start"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="start"
+        android:layout_margin="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="start"
+        android:layout_marginTop="140dp"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="start"
+        android:layout_marginTop="195dp"
+        android:layout_marginStart="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="140dp"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="195dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="end"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="55dp"
+        android:layout_marginEnd="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="140dp"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="195dp"
+        android:layout_marginEnd="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="140dp"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginTop="140dp"
+        android:layout_marginStart="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center"
+        android:background="@color/black">
+    </View>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="140dp"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="140dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center_vertical|end"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="center_vertical|end"
+        android:layout_marginEnd="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="center_vertical|end"
+        android:layout_marginTop="140dp"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="center_vertical|end"
+        android:layout_marginTop="140dp"
+        android:layout_marginEnd="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="bottom"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="55dp"
+        android:layout_marginStart="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="bottom|center"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="bottom|center"
+        android:layout_marginBottom="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="124dp"
+        android:layout_height="124dp"
+        android:layout_gravity="bottom|end"
+        android:background="@color/black">
+    </View>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="bottom|end"
+        android:layout_marginEnd="55dp"
+        android:layout_marginBottom="55dp"
+        android:background="@color/white">
+    </TextView>
+
+    <TextView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_gravity="center"
+        android:background="@color/white">
+    </TextView>
+
+    <View
+        android:layout_width="160dp"
+        android:layout_height="130dp"
+        android:layout_gravity="end|bottom"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@color/white">
+    </View>
+
+</FrameLayout>
