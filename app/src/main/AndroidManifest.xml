@@ -13,11 +13,11 @@
         android:theme="@style/Theme.BazaarLibre"
         tools:targetApi="31" >
         <activity
-            android:name=".OnBoardingActivity"
+            android:name=".view.OnBoardingActivity"
             android:exported="false"
             android:theme="@style/Theme.BazaarLibre" />
         <activity
-            android:name=".MainActivity"
+            android:name=".view.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
